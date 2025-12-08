@@ -1,1 +1,4 @@
 echo "Hello Git"
+
+
+This change is made from the cloned repository.
