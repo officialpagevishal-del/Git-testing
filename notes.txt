@@ -1,5 +1,1 @@
-My first Git project.
-I am learning Git step by step.
-
-Now I understand what git init and git commit do.
-I am becoming a Git pro.
+This line is added from MAIN branch.
